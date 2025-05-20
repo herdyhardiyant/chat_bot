@@ -50,12 +50,14 @@ uvicorn main:app --reload
 ```
 
 ## Struktur Proyek
+```
 chatbot/
-├── main.py                  # Backend utama (FastAPI + Semantic Kernel)
+├── main.py  # Backend utama (FastAPI + Semantic Kernel)
 ├── templates/
-│   └── index.html           # Halaman antarmuka chatbot
+│   └── index.html # Halaman antarmuka chatbot
 ├── static/
-│   └── script.js            # JavaScript frontend
-├── .env                     # Konfigurasi Azure OpenAI
-├── requirements.txt         # Daftar dependensi
+│   └── script.js # JavaScript frontend
+├── .env # Konfigurasi Azure OpenAI
+├── requirements.txt # Daftar dependensi
 └── README.md
+```
