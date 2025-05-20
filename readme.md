@@ -19,8 +19,8 @@ Proyek ini adalah chatbot berbasis **Semantic Kernel** dan **Azure OpenAI** yang
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/chatbot.git
-cd chatbot
+git clone https://github.com/herdyhardiyant/chat_bot
+cd chat_bot
 ```
 
 ### 2. Buat dan Aktifkan Virtual Environment
