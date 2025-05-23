@@ -36,10 +36,10 @@ pip install -r requirements.txt
 
 ### 4. Atur Konfigurasi Azure di file .env
 ```ini
-# Silahkan gunakan kredensial saya untuk rekruiter XIONCO
-AZURE_OPENAI_API_KEY=EfGdMwTUknSHwaZkDRZC1wimY5fQTd4tZmLRsLsDS0QN4f2sltHFJQQJ99BEACHYHv6XJ3w3AAAAACOGaprn
-AZURE_OPENAI_ENDPOINT=https://ai-herdyhardiyant7096ai317864532559.cognitiveservices.azure.com/openai/deployments/gpt-4.1-nano/chat/completions?api-version=2025-01-01-preview
-AZURE_DEPLOYMENT_NAME=gpt-4.1-nano
+
+AZURE_OPENAI_API_KEY=""
+AZURE_OPENAI_ENDPOINT=""
+AZURE_DEPLOYMENT_NAME=""
 ```
 
 ### 5. Jalankan Aplikasi
